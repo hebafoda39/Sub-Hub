@@ -88,6 +88,7 @@ The Project aims to provide Translation Service for anyone, and help beginner Tr
 	6.5 Mark Notification as read
 	6.6 Log Activity on Material
 	6.7 View Activities on each Material
+	6.7 View Activities on each Material
 }
 	
 	
